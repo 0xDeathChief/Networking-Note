@@ -6,14 +6,14 @@ There are numerous kinds of executable file attachments that many organizations 
 
 The specific file types that can be blocked are:
 
-.bas
-.hta
-.bat
-.inf 
-.chm 
-.cmd 
-.com 
-.cpl 
+`.bas`
+`.hta`
+`.bat`
+`.inf`
+`.chm` 
+`.cmd`
+`.com` 
+`.cpl 
 ins 
 .isp 
 .js
@@ -33,5 +33,8 @@ ins
 .url
 .vb
 .vbe
-.vbs .ws .wsc .wsf 
+.vbs
+.ws
+.wsc
+.wsf 
 .wsh
