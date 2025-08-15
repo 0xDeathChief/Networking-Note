@@ -14,4 +14,24 @@ The specific file types that can be blocked are:
 .cmd 
 .com 
 .cpl 
-.ins .isp .js .jse .crt .lnk .exe .msi .msp .mst .pif .pl .reg .scr .sct .shs .url .vb .vbe .vbs .ws .wsc .wsf .wsh
+ins 
+.isp 
+.js
+.jse
+.crt
+.lnk
+.exe
+.msi
+.msp
+.mst
+.pif
+.pl
+.reg
+.scr
+.sct
+.shs
+.url
+.vb
+.vbe
+.vbs .ws .wsc .wsf 
+.wsh
